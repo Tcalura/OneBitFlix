@@ -124,4 +124,8 @@ Gemfile.lock
 !.vscode/extensions.json
 
 
-# End of https://www.gitignore.io/api/git,ruby,rails,visualstudiocode
+# End of https://www.gitignore.io/api/git,ruby,rails,visualstudiocode/public/packs
+/public/packs-test
+/node_modules
+yarn-debug.log*
+.yarn-integrity
